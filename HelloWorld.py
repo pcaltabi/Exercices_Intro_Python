@@ -1,5 +1,5 @@
 #!/usr/bin/python3
 """
-mon premier exercie
+mon premier exercice
 """
 print("Hello World!")
